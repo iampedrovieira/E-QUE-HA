@@ -94,13 +94,13 @@ Project Link: [https://github.com/iampedrovieira/E-QUE-HA](https://github.com/ia
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/iampedrovieira/E-QUE-HA/.svg?style=for-the-badge
 [contributors-url]: https://github.com/iampedrovieira/E-QUE-HA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/iampedrovieira/E-QUE-HA/.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/iampedrovieira/E-QUE-HA.svg?style=for-the-badge
 [forks-url]: https://github.com/iampedrovieira/E-QUE-HA/network/members
-[stars-shield]: https://img.shields.io/github/stars/iampedrovieira/E-QUE-HA/.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/iampedrovieira/E-QUE-HA.svg?style=for-the-badge
 [stars-url]: https://github.com/iampedrovieira/E-QUE-HA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/iampedrovieira/E-QUE-HA/.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/iampedrovieira/E-QUE-HA.svg?style=for-the-badge
 [issues-url]: https://github.com/iampedrovieira/E-QUE-HA/issues
-[license-shield]: https://img.shields.io/github/license/iampedrovieira/E-QUE-HA/.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/iampedrovieira/E-QUE-HA.svg?style=for-the-badge
 [license-url]: https://github.com/iampedrovieira/E-QUE-HA/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pedro-vieira-0561781b8/
