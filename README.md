@@ -41,7 +41,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](/stuff/main.gif)
+<br />
+<p align="center">
+    <img src="stuff/main.gif" alt="Logo" width="600" height="285">
+</p>
+
+<br/>
 
 ...
 
@@ -64,11 +69,18 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 * User
-![](/stuff/user.gif)
+<br />
+<p align="center">
+    <img src="stuff/user.gif" alt="Logo" width="600" height="285">
+</p>
 
-*Admin 
+<br/>
 
-![](/stuff/admin.gif)
+* Admin
+<br />
+<p align="center">
+    <img src="stuff/admin.gif" alt="Logo" width="600" height="285">
+</p>
 
 <!-- CONTACT -->
 ## Contact
