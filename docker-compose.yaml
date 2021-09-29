@@ -16,5 +16,7 @@ services:
   back-end:
     image: e-que-ha-be:1.0
     restart: always
+    links:
+      - db
     ports:
       - '3342:3342'
