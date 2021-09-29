@@ -3,7 +3,7 @@ const user = require("./controllers/User");
 const produto = require("./controllers/Produto");
 const carrinho = require("./controllers/Carrinho");
 const compra = require("./controllers/Compra");
-const analises = require("./controllers/analise");
+const analises = require("./controllers/Analise");
 const routes = express.Router();
 
 routes.post("/api/signup", user.signup);
